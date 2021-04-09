@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="315fbf12-fe7c-4040-8dea-f11b279cca9a" name="147.175.98.129">
+        <fileTransfer rootFolder="/home/xrendekm/public_html" accessType="SFTP" host="147.175.98.129" port="22" sshConfigId="c428f282-e174-412c-b56e-a6ef6c6053a5" sshConfig="xrendekm@147.175.98.129:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
